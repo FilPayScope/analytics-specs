@@ -445,14 +445,6 @@ Cohort analysis groups users by a shared characteristic (typically their first a
 - Avg revenue per payee
 - Revenue growth rate
 
-**Example Revenue Table:**
-
-| Cohort   | Month 0 | Month 1 | Month 2 | Month 3 |
-| -------- | ------- | ------- | ------- | ------- |
-| Jan 2024 | $10K    | $25K    | $45K    | $70K    |
-| Feb 2024 | $15K    | $40K    | $75K    | —       |
-| Mar 2024 | $25K    | $60K    | —       | —       |
-
 **Why It Matters:**
 
 - Shows if payees grow their revenue over time
