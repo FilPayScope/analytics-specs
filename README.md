@@ -67,7 +67,7 @@ This is comparable to the difference between **Etherscan** (explorer) and **Dune
 
 ## 3. Data Architecture
 
-### Pipeline Overview
+### Pipeline Overview (WIP)
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
