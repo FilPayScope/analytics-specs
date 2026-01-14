@@ -1,4 +1,4 @@
-# FILPAYSCOPE - ANALYTICS SPECS
+# FILPAYSCOPE ANALYTICS SPECS
 
 A comprehensive analytics layer providing protocol intelligence, financial analytics, user behavior insights, and risk analysis for the Filecoin Pay ecosystem.
 
